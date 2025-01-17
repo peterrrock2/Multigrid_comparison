@@ -1,4 +1,4 @@
 target/
 .venv 
 *.ben*
-*_assignments.txt
+*.jsonl

@@ -6,6 +6,9 @@ assignment counts for the square and linear multigrids.
 Please note that the figures may currently look strange as they
 were run on test data.
 
+
+
+
 ## Setup
 
 To setup the environment, run the following:

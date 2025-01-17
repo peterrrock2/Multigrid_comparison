@@ -545,6 +545,6 @@ fn tally_and_save_changed_assignments(
 
     out.write(format!("{:?}", final_count).as_bytes())
         .expect("Could not write to output file");
-
+    println!("Count: {:?}", count);
     Ok(())
 }
